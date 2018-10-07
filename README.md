@@ -248,6 +248,6 @@ With your help, we can create a comprehensive reference tool that will help mill
 
 Copyright (c) 2017 freeCodeCamp.
 
-The content of this repository is bound by the following licenses:
+The content of this repository is bounded by the following licenses:
 - The computer software is licensed under the [BSD-3-Clause](./LICENSE.md).
 - The reference content as in ./src/pages and subdirectories is licensed under the [CC-BY-SA-4.0](./LICENSE-freeCodeCamp-Guide-Articles.md).
